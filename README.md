@@ -1,4 +1,5 @@
 # Dataset pro fine-tuning LLM: Swift - Investigace
+## Domací úkol - kurz AI Architect od robot_dreams
 
 ## 1. Cil datasetu
 
